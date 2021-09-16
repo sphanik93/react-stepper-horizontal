@@ -1,0 +1,18 @@
+{
+  "name": "react-stepper-horizontal",
+  "version": "1.0.0",
+  "description": "react stepper with images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sphanik93/react-stepper-horizontal.git)"
+  },
+  "keywords": [
+    "react-stepper"
+  ],
+  "author": "phani krishna sunkara",
+  "license": "ISC"
+}
