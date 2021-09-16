@@ -1,18 +1,22 @@
 {
-  "name": "react-stepper-horizontal",
-  "version": "1.0.0",
-  "description": "react stepper with images",
+  "name": "react-stepper-horizontal-images",
+  "version": "1.2.0",
+  "description": "react-stepper-horizontal with images",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/sphanik93/react-stepper-horizontal.git)"
+    "url": "git+https://github.com/sphanik93/react-stepper-horizontal.git"
   },
   "keywords": [
-    "react-stepper"
+    "react-stepper, react-stepper-images"
   ],
-  "author": "phani krishna sunkara",
-  "license": "ISC"
+  "author": "sunkaraphani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sphanik93/react-stepper-horizontal/issues"
+  },
+  "homepage": "https://github.com/sphanik93/react-stepper-horizontal#readme"
 }
